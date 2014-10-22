@@ -1,0 +1,50 @@
+{
+	"name": "elefrant-util",
+	"version": "0.2.0",
+	"description": "Utils functions for Elefrant Framework",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Elefrant/elefrant-util"
+	},
+	"maintainers": [{
+		"name": "Marcos Sanz Latorre",
+		"email": "marcos.sanz@13genius.com",
+		"url": "http://mistersanz.com"
+	}],
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	"scripts": {
+		"test": "node node_modules/grunt-cli/bin/grunt"
+	},
+	"main": "index",
+	"keywords": [
+		"elefrant",
+		"elefrantio",
+		"elefrant-util",
+		"util",
+		"utils",
+		"component"
+	],
+	"dependencies": {
+		"async": "~0.9.0",
+		"lodash": "~2.4.1",
+		"underscore.string": "~2.3.3",
+		"glob": "~4.0.6",
+		"chalk": "~0.5.1",
+		"lodash": "~2.4.1"
+	},
+	"devDependencies": {
+		"grunt": "~0.4.0",
+		"grunt-contrib-jshint": "~0.10.0",
+		"grunt-mocha-test": "~0.10.0",
+		"mocha": "~1.18.2",
+		"should": "~3.2.0"
+	},
+	"readmeFilename": "readme.md",
+	"bugs": {
+		"url": "https://github.com/Elefrant/elefrant-util/issues"
+	},
+	"homepage": "https://github.com/Elefrant/elefrant-util"
+}
