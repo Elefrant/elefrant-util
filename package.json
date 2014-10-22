@@ -1,7 +1,7 @@
 {
 	"name": "elefrant-util",
 	"version": "0.2.0",
-	"description": "Utils functions for Elefrant Framework",
+	"description": "Utils functions for Elefrant Framework.",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
