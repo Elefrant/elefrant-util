@@ -1,4 +1,4 @@
-**Elefrant Util**
+# Elefrant Util
 
 
 ## Install
@@ -34,7 +34,7 @@ var async = util.async;
 Be free to add new or extend libraries.
 
 
-### format.`util.format`
+### format: `util.format`
 
 Underscore.String [functions](https://github.com/epeli/underscore.string)
 
