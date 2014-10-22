@@ -1,7 +1,7 @@
 # Elefrant Util
 
 
-## Install
+## Install 
 
 ```sh
 $ npm install --save elefrant-util
