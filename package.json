@@ -7,6 +7,7 @@
 		"type": "git",
 		"url": "git://github.com/Elefrant/elefrant-util"
 	},
+	"author": "Elefrant <hello@elefrant.com>",
 	"maintainers": [{
 		"name": "Marcos Sanz Latorre",
 		"email": "marcos.sanz@13genius.com",
