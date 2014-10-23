@@ -2,6 +2,8 @@
 
 [![wercker status](https://app.wercker.com/status/abf296cb1fad2ac7c4f47e7eb56784c4/s/master "wercker status")](https://app.wercker.com/project/bykey/abf296cb1fad2ac7c4f47e7eb56784c4)
 
+[![Dependency Status](https://gemnasium.com/Elefrant/elefrant-util.svg)](https://gemnasium.com/Elefrant/elefrant-util)
+
 ## Install
 
 ```sh
