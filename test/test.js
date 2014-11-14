@@ -27,6 +27,10 @@ describe('util', function () {
 		should.exist(util.chalk);
 		util.chalk.should.be.an.Object;
 	});
+	
+	it('exists q', function () {
+		should.exist(util.q);
+	});
 
 	it('exists format', function () {
 		should.exist(util.format);
