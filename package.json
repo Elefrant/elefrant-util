@@ -1,6 +1,6 @@
 {
 	"name": "elefrant-util",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"description": "Utils functions for Elefrant Framework.",
 	"license": "MIT",
 	"repository": {
@@ -34,7 +34,7 @@
 		"chalk": "~0.5.1",
 		"glob": "~4.0.6",
 		"lodash": "~2.4.1",
-		"lodash": "~2.4.1",
+		"q": "~1.1.1",
 		"underscore.string": "~2.3.3"
 	},
 	"devDependencies": {
