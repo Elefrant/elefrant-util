@@ -22,6 +22,10 @@ describe('util', function () {
 	it('exists lodash', function () {
 		should.exist(util.lodash);
 	});
+	
+	it('exists dateformat', function () {
+		should.exist(util.dateformat);
+	});
 
 	it('exists chalk', function () {
 		should.exist(util.chalk);
